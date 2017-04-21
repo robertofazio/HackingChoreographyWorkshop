@@ -3,6 +3,8 @@ Kate Sicchio Workshop at Resonate 2017
 
 a t-SNE (t-Distributed Stochastic Neighbor Embedding) Choreography navigator.
 
+[video](https://www.instagram.com/p/BTI-BoelZjs/?taken-by=robertofaziostudio&hl=en)
+
 ![alt tag](res17/5.png)
 ![alt tag](res17/6.png)
 ![alt tag](res17/7.png)

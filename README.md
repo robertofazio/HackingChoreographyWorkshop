@@ -1,5 +1,5 @@
-# Hacking-Coreography-Workshop
-Kate Sicchio Workshop at Resonate 2017
+# Hacking-Choreography-Workshop
+[Kate Sicchio](https://github.com/sicchio) Workshop at Resonate 2017
 
 a t-SNE (t-Distributed Stochastic Neighbor Embedding) Choreography navigator.
 
